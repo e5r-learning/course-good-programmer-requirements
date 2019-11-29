@@ -7,6 +7,26 @@ Então se você pretende aprender a programar e embarcar nessa maravilhosa
 profissão, sugiro que você entenda muito bem cada tópico aqui apresentado.
 
 # Sumário
+* Introdução
+* O código é um "arquivo de texto"
+* O sistema de arquivos
+* Os editores
+  - Do presente ao passado
+  - Categorizando os editores
+  - Algumas observações pessoais
+    - Seja mais amigo do teclado
+    - O código é mais importante que o editor
+* Sua rotina no shell
+  - Rotinas:
+  - Comandos mais usados
+  - Redirecionamento de saídas padrões
+  - Mais rotina
+  - Mais rotinas bônus
+* Seu Kit Nativo de Desenvolvimento
+  - Tenha sempre seu Kit de Programação Nativa
+  - Conheça o mínimo da programação nativa
+  - Gerenciadores de pacotes
+  -  Algumas outras ferramentas muito importantes
 
 # Introdução
 
