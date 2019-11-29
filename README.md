@@ -301,3 +301,39 @@ Notas:
 * Unzip, tar, PowerShell Expand-Archive
 * ./configure && make
 * Git
+
+# Conclusão
+
+Você precisa conhecer todos os itens e mencionados aqui porque esse vai ser seu dia-a-dia.
+Você precisa entender muito bem muitos dos itens mencionados aqui porque sua vida como desenvolvedor dependerá desse entendimento.
+Você precisa praticar muito para ser bom em em alguns dos itens mencionados aqui.
+
+1) O código é um arquivo de texto sempre;
+2) Você precisa conhecer e saber navegar em todo seu sistema de arquivos;
+3) Escolha logo seu editor, ele será seu melhor amigo junto ao teclado;
+4) Deixa de preguiça e aprenda logo a ser fluido no shell;
+5) Entenda o mínimo das peças da programação nativa, isso é útil pra tudo;
+6) Use gerenciadores de pacotes, eles são melhores;
+7) Se acostume logo com as ferramentas comuns do nosso meio;
+
+Não falamos de uma série de coisas aqui como:
+- Virtualização e Containers
+- Padrões de Projeto
+- Implantação, GitHub, Nuvem
+- Segurança, Criptografia, OAuth, Bitcoin
+- Performance, Aplicativos, IoT
+- BigData, Inteligência artificial, Automação
+
+E mais um "monte" de coisas ainda.
+Só que tudo isso são tecnologias que surgem o tempo todo, uma substitui a outra;
+outras sobrevivem mais tempo, algumas estão na moda e são muito faladas, e existem até
+aquelas que parecem mais ficcão, e algumas muito complexas de se entender só com um
+tutorial no YouTube.
+
+O importante é saber que todas essas tecnologias, passam por algum momento pela mão de um programador,
+e esse programador é um trabalhador que tem uma rotina diária e um conhecimento básico bem sólido,
+tanto que consegue criar todas essas coisas maravilhosas que você vai aprender daqui em diante.
+
+Por isso, esses pré-requisitos mencionados aqui precisam ser dominados por você caso queira
+sobreviver na selva do desenvolvimento de softwares, ou até, se quiser ser bem sucedido em
+sua carreira.
