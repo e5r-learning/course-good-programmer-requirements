@@ -27,6 +27,7 @@ profissão, sugiro que você entenda muito bem cada tópico aqui apresentado.
   - Conheça o mínimo da programação nativa
   - Gerenciadores de pacotes
   - Algumas outras ferramentas muito importantes
+* Shell Script
 * Conclusão
 
 # Introdução
@@ -298,12 +299,33 @@ Notas:
 ## Algumas outras ferramentas muito importantes
 
 Notas:
-* Shabang `#!` (https://pt.wikipedia.org/wiki/Shebang)
-* Permissão de execução? (Windows não tem, Unix `chmod`)
 * Curl, Wget, PowerShell Invoke-WebRequest
 * Unzip, tar, PowerShell Expand-Archive
 * ./configure && make
 * Git
+
+## Shell Script
+
+Notas:
+* Arquivo de execução de comandos em lote
+  - Windows Batch Script (https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
+  - Unix batch com `. file`, `source file`
+* Arquivos executáveis
+  - Permissão de execução? (Windows não tem, Unix `chmod`)
+  - Shabang `#!` (https://pt.wikipedia.org/wiki/Shebang)
+* O básico de entrada e saída com arquivos
+  - Arquivos de texto
+  - STDIN, STDOUT, STDERR
+* O básico de CGI
+  - Com shell script é claro
+  - Com um `.exe` em C (antigão?)
+  - Com um `.exe` em Go (moderninho?)
+  - CGI não é antigo, é uma **forma** de fazer algo
+  - O novo Fast-CGI
+  - O mederno Proxy Reverso
+* As primeiras linguagens de script
+  - Um Shell Script mais poderoso
+  - Perl e Python
 
 # Conclusão
 
