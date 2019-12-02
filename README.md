@@ -297,6 +297,8 @@ Notas:
 ## Algumas outras ferramentas muito importantes
 
 Notas:
+* Shabang `#!` (https://pt.wikipedia.org/wiki/Shebang)
+* Permissão de execução? (Windows não tem, Unix `chmod`)
 * Curl, Wget, PowerShell Invoke-WebRequest
 * Unzip, tar, PowerShell Expand-Archive
 * ./configure && make
