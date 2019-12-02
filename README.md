@@ -26,7 +26,8 @@ profissão, sugiro que você entenda muito bem cada tópico aqui apresentado.
   - Tenha sempre seu Kit de Programação Nativa
   - Conheça o mínimo da programação nativa
   - Gerenciadores de pacotes
-  -  Algumas outras ferramentas muito importantes
+  - Algumas outras ferramentas muito importantes
+* Conclusão
 
 # Introdução
 
