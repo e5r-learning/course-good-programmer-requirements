@@ -54,7 +54,7 @@ Notas:
   - No Windows, letras (C:\, D:\, etc)
   - No Unix, pontos de montagem
 * Caminhos ou "paths"
-  - O separador de caminhos "/" ou "\"?
+  - O separador de caminhos "/" ou "\\"?
   - Hoje o Windows "meio que aceita" separadores "/"
     - Ex: cd C:\Users\erlimar\sources
     - Ex: cd C:/Users/erlimar/sources
