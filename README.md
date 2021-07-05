@@ -144,7 +144,7 @@ Notas:
   
 ### Seja mais amigo do teclado
 
-Prefira ser mais amigo do teclado ao invés do mouse
+Prefira ser mais amigo do teclado ao invés do mouse.
 
 Notas:
 * Quem digita mais código? O teclado ou o mouse?
@@ -155,6 +155,14 @@ Notas:
   - O curso de digitação e a diferença na digitação com Whatsapp
   - Eu tenho problemas no pulso com o passar dos anos
   - Isso também é saúde
+
+Alguns links:
+* https://www.techtudo.com.br/noticias/noticia/2016/12/historia-do-teclado-veja-como-este-periferico-tao-importante-foi-pensado.html
+* https://www.tecmundo.com.br/produto/122002-historia-teclado-maquina-escrever-gamers-video.htm
+* https://pt.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)
+* https://www.youtube.com/watch?v=zfMvxTmY2rQ
+* https://viverdeblog.com/teclado-qwerty/
+* https://www.youtube.com/watch?v=Zo4kR8Q1qWE
   
 ### O código é mais importante que o editor
 
